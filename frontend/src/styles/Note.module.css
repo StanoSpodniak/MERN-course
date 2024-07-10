@@ -1,0 +1,8 @@
+.noteCard {
+    background-color: cornsilk;
+    padding: 10px;
+}
+
+.cardText {
+    white-space: pre-line;
+}
